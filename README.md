@@ -1,6 +1,6 @@
 # DSA Journey 🚀
 
-A daily log of Data Structures & Algorithms practice problems — primarily from GeeksforGeeks.
+A daily log of Data Structures & Algorithms practice problems — primarily from Leetcode.
 
 ## 📅 Progress Tracker
 
