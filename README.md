@@ -1,6 +1,9 @@
+'''markdown
 # DSA Journey 🚀
 
 A daily log of Data Structures & Algorithms practice problems — primarily from Leetcode.
+
+---
 
 ## 📅 Progress Tracker
 
@@ -15,6 +18,7 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 07 | 07-04-2026 | | 2069 | Walking Robot Simulation II |
 | 08 | 08-04-2026 | | ⌛🔄️ Updating Soon.. |
 
+---
 
 ## 📂 Folder Structure
 
@@ -29,6 +33,7 @@ DSA-Journey/
 ├── Searching-Sorting/
 └── README.md
 
+---
 
 ## 🛠️ Languages Used
 - Python 
@@ -38,11 +43,19 @@ DSA-Journey/
 - Cover all major DSA topics
 - Be consistent
 
+---
+
 ## 📌 Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org//priyavashisth06)
 - [LeetCode](https://leetcode.com/priyavashisth06)
 - [Code Army Sheet](https://codolio.com/question-tracker/sheet/code-army-sheet?category=popular)
 
+---
+
 ## 🙆‍♀️ Author
 **Priya Vashisth**  
 [GitHub](https://github.com/priyavashisth) • [LinkedIn](https://linkedin.com/in/priyavashisth06)
+
+---
+
+'''
