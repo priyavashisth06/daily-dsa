@@ -1,9 +1,11 @@
-'''markdown
+```markdown
 # DSA Journey 🚀
 
 A daily log of Data Structures & Algorithms practice problems — primarily from Leetcode.
 
 ---
+
+```
 
 ## 📅 Progress Tracker
 
@@ -20,6 +22,7 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 
 ---
 
+```markdown
 ## 📂 Folder Structure
 
 DSA-Journey/
@@ -44,6 +47,7 @@ DSA-Journey/
 - Be consistent
 
 ---
+```
 
 ## 📌 Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org//priyavashisth06)
@@ -57,5 +61,3 @@ DSA-Journey/
 [GitHub](https://github.com/priyavashisth) • [LinkedIn](https://linkedin.com/in/priyavashisth06)
 
 ---
-
-'''
