@@ -4,9 +4,17 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 
 ## 📅 Progress Tracker
 
-| Day | Date | Topic | Problems Solved |
+| Day | Date | Topic |Question No. | Problems Solved |
 |-----|------|-------|----------------|
-| 1 | 01-04-2026 | | 2751. Robot Collisions
+| 01 | 01-04-2026 | | 2751 | Robot Collisions |
+| 02 | 02-04-2026 | | 3418 | Maximum Amount of Money Robot Can Earn |
+| 03 | 03-04-2026 | | 3661 | Maximun Walls Destroyed by Robots |
+| 04 | 04-04-2026 | | 2075 | Decode the Slanted Cyphertext |
+| 05 | 05-04-2026 | | 657 | Robot Return to Origin |
+| 06 | 06-04-2026 | | 874 | Walking Robot Simulation |
+| 07 | 07-04-2026 | | 2069 | Walking Robot Simulation II |
+| 08 | 08-04-2026 | | ⌛🔄️ Updating Soon.. |
+
 
 ## 📂 Folder Structure
 
@@ -35,6 +43,6 @@ DSA-Journey/
 - [LeetCode](https://leetcode.com/priyavashisth06)
 - [Code Army Sheet](https://codolio.com/question-tracker/sheet/code-army-sheet?category=popular)
 
-## 🙋 Author
+## 🙆‍♀️ Author
 **Priya Vashisth**  
 [GitHub](https://github.com/priyavashisth) • [LinkedIn](https://linkedin.com/in/priyavashisth06)
