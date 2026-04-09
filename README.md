@@ -17,7 +17,8 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 06 | 06-04-2026 | 874 | Walking Robot Simulation |
 | 07 | 07-04-2026 | 2069 | Walking Robot Simulation II |
 | 08 | 08-04-2026 | 3653 | XOR After Range Multiplication Queries I|
-| 09 | 09-04-2026 |  | ⌛🔄️ Updating Soon.. |
+| 09 | 09-04-2026 | 3655 | XOR After Range Multiplication Queries II |
+| 10 | 10-04-2026 |  | ⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
