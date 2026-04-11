@@ -19,7 +19,8 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 08 | 08-04-2026 | 3653 | XOR After Range Multiplication Queries I|
 | 09 | 09-04-2026 | 3655 | XOR After Range Multiplication Queries II |
 | 10 | 10-04-2026 | 3740 | Minimum Distance Between Three Equal Elements I |
-| 11 | 11-04-2026 |  | ⌛🔄️ Updating Soon.. |
+| 11 | 11-04-2026 | 3741 | Minimum Distance Between Three Equal Elements II |
+| 12 | 12-04-2026 |  | ⌛🔄️ Updating Soon.. |
 
 
 > 🔄 Updated daily without fail
