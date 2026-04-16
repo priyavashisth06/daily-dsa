@@ -13,14 +13,19 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 02 | 02-04-2026 | 3418 | Maximum Amount of Money Robot Can Earn |
 | 03 | 03-04-2026 | 3661 | Maximun Walls Destroyed by Robots |
 | 04 | 04-04-2026 | 2075 | Decode the Slanted Cyphertext |
-| 05 | 05-04-2026 | 657 | Robot Return to Origin |
-| 06 | 06-04-2026 | 874 | Walking Robot Simulation |
+| 05 | 05-04-2026 |  657 | Robot Return to Origin |
+| 06 | 06-04-2026 |  874 | Walking Robot Simulation |
 | 07 | 07-04-2026 | 2069 | Walking Robot Simulation II |
 | 08 | 08-04-2026 | 3653 | XOR After Range Multiplication Queries I|
 | 09 | 09-04-2026 | 3655 | XOR After Range Multiplication Queries II |
 | 10 | 10-04-2026 | 3740 | Minimum Distance Between Three Equal Elements I |
 | 11 | 11-04-2026 | 3741 | Minimum Distance Between Three Equal Elements II |
-| 12 | 12-04-2026 |  | ⌛🔄️ Updating Soon.. |
+| 12 | 12-04-2026 | 1320 | Minimum Distance to Type a Word Using Two Fingers |
+| 13 | 13-04-2026 | 1848 | Minimum Distance to the Target Element |
+| 14 | 14-04-2026 | 2463 | Minimum Total Distance Traveled|
+| 15 | 15-04-2026 | 2515 | Shortest Distance to Target String in a Circular Array|
+| 16 | 16-04-2026 | 3488 | Closest Equal Element Queries|
+| 17 | 17-04-2026 |  | ⌛🔄️ Updating Soon.. |
 
 
 > 🔄 Updated daily without fail
