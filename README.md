@@ -25,7 +25,10 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 14 | 14-04-2026 | 2463 | Minimum Total Distance Traveled|
 | 15 | 15-04-2026 | 2515 | Shortest Distance to Target String in a Circular Array|
 | 16 | 16-04-2026 | 3488 | Closest Equal Element Queries|
-| 17 | 17-04-2026 |  | ⌛🔄️ Updating Soon.. |
+| 17 | 17-04-2026 | 3761 | Minimum Absolute Distance Between Mirror Pairs |
+| 18 | 18-04-2026 | 3783 | Mirror Distance of an Integer |
+| 19 | 19-04-2026 | 1855 | Maximum Distance Between a Pair of Values |
+| 20 | 20-04-2026 |  | ⌛🔄️ Updating Soon.. |
 
 
 > 🔄 Updated daily without fail
