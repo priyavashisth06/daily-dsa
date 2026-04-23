@@ -28,8 +28,11 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 17 | 17-04-2026 | 3761 | Minimum Absolute Distance Between Mirror Pairs |
 | 18 | 18-04-2026 | 3783 | Mirror Distance of an Integer |
 | 19 | 19-04-2026 | 1855 | Maximum Distance Between a Pair of Values |
-| 20 | 20-04-2026 |  | ⌛🔄️ Updating Soon.. |
-
+| 20 | 20-04-2026 | 2078 | Two Furthest Houses With Different Colors |
+| 21 | 21-04-2026 | 1722 | Minimize Hamming Distance After Swap Operations |
+| 22 | 22-04-2026 | 2452 | Words Within Two Edits of Dictionary |
+| 23 | 23-04-2026 | 2615 | Sum of Distances |
+| 24 | 24-04-2026 |  | ⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
