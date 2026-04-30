@@ -32,9 +32,13 @@ A daily log of Data Structures & Algorithms practice problems — primarily from
 | 21 | 21-04-2026 | 1722 | Minimize Hamming Distance After Swap Operations |
 | 22 | 22-04-2026 | 2452 | Words Within Two Edits of Dictionary |
 | 23 | 23-04-2026 | 2615 | Sum of Distances |
-| 24 | 24-04-2026 |  | ⌛🔄️ Updating Soon.. |
-
-> 🔄 Updated daily without fail
+| 24 | 24-04-2026 | 2833 | Furthest Point From Origin |
+| 25 | 25-04-2026 | 3464 | Maximize the Distance Between Points on a Square |
+| 26 | 26-04-2026 | 1559 | Detect Cycles in 2D Grid |
+| 27 | 27-04-2026 | 1391 | Check if There is a Valid Path in a Grid |
+| 28 | 28-04-2026 | 2033 | Minimum Operations to Make a Uni-Value Grid |
+| 29 | 29-04-2026 | 3225 | Maximum Score From Grid Operations |
+| 30 | 30-04-2026 | 3742 | Maximum Path Score in a Grid |
 
 
 ```markdown
