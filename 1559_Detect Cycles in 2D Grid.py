@@ -10,7 +10,6 @@ Also, you cannot move to the cell that you visited in your last move. For exampl
 Return true if any cycle of the same value exists in grid, otherwise, return false.
 
  
-
 Example 1:
 https://assets.leetcode.com/uploads/2020/07/15/1.png
 
